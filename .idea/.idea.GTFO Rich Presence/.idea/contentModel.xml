@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Renzo\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Renzo\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_GTFO Rich Presence.-1637624404.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Renzo\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="E:\Mods\GTFO Rich Presence" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Discord" t="Include">
+        <e p="ActivityManager.cs" t="Include" />
+        <e p="Constants.cs" t="Include" />
+        <e p="Core.cs" t="Include" />
+        <e p="ImageManager.cs" t="Include" />
+        <e p="LobbyManager.cs" t="Include" />
+        <e p="StorageManager.cs" t="Include" />
+        <e p="StoreManager.cs" t="Include" />
+      </e>
+      <e p="Events.cs" t="Include" />
+      <e p="GTFO Rich Presence.csproj" t="IncludeRecursive" />
+      <e p="GTFO Rich Presence.sln" t="IncludeFlat" />
+      <e p="Lib" t="Include">
+        <e p="Addons-ASM.dll" t="Include" />
+        <e p="GlobalFramework-ASM.dll" t="Include" />
+        <e p="Il2Cppmscorlib.dll" t="Include" />
+        <e p="Il2CppSystem.dll" t="Include" />
+        <e p="MelonLoader.ModHandler.dll" t="Include" />
+        <e p="Modules-ASM.dll" t="Include" />
+        <e p="UnhollowerBaseLib.dll" t="Include" />
+        <e p="UnhollowerRuntimeLib.dll" t="Include" />
+        <e p="UnityEngine.CoreModule.dll" t="Include" />
+        <e p="UnityEngine.dll" t="Include" />
+        <e p="Utils-ASM.dll" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Release" t="Include">
+          <e p="net472" t="Include">
+            <e p="GTFO Rich Presence.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Patches.cs" t="Include" />
+      <e p="RichPresence.cs" t="Include" />
+      <e p="Utility.cs" t="Include" />
+    </e>
+  </component>
+</project>

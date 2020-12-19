@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <RootNamespace>GTFO_Rich_Presence</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Addons-ASM, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\Addons-ASM.dll</HintPath>
+      </Reference>
+      <Reference Include="GlobalFramework-ASM, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\GlobalFramework-ASM.dll</HintPath>
+      </Reference>
+      <Reference Include="Il2Cppmscorlib, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\Il2Cppmscorlib.dll</HintPath>
+      </Reference>
+      <Reference Include="Il2CppSystem, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\Il2CppSystem.dll</HintPath>
+      </Reference>
+      <Reference Include="MelonLoader.ModHandler, Version=0.2.7.2, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\MelonLoader.ModHandler.dll</HintPath>
+      </Reference>
+      <Reference Include="Modules-ASM, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\Modules-ASM.dll</HintPath>
+      </Reference>
+      <Reference Include="SNet_ASM, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\SNet_ASM.dll</HintPath>
+      </Reference>
+      <Reference Include="UnhollowerBaseLib, Version=0.4.10.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\UnhollowerBaseLib.dll</HintPath>
+      </Reference>
+      <Reference Include="UnhollowerRuntimeLib, Version=0.4.10.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\UnhollowerRuntimeLib.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\UnityEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="Utils-ASM, Version=3.7.1.6, Culture=neutral, PublicKeyToken=null">
+        <HintPath>Lib\Utils-ASM.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Lib\SNet_ASM.dll" />
+    </ItemGroup>
+
+</Project>

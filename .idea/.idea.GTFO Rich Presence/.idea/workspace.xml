@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8404d52-388d-4469-9a81-2a353f7b06db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/ActivityManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/Constants.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/Core.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/ImageManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/LobbyManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/StorageManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord/StoreManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Events.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GTFO Rich Presence.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GTFO Rich Presence.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/SNet_ASM.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patches.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RichPresence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/RichPresence.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1lhUJqJElKAIr8AH04uR990wqxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="C#" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8404d52-388d-4469-9a81-2a353f7b06db" name="Default Changelist" comment="" />
+      <created>1608048750188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608048750188</updated>
+      <workItem from="1608048755485" duration="13363000" />
+      <workItem from="1608143870721" duration="3150000" />
+      <workItem from="1608152945916" duration="967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1608078482255">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/-1920.-17.1920.1040/2560.-70.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1608078482255" />
+  </component>
+</project>
