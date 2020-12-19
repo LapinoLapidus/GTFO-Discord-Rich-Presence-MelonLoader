@@ -6,7 +6,7 @@ using GTFO_Rich_Presence;
 using MelonLoader;
 using SNetwork;
 
-[assembly: MelonInfo(typeof(RichPresence), "GTFO Rich Presence", "1.0.0", "LapinoLapidus#3262")]
+[assembly: MelonInfo(typeof(RichPresence), "GTFO Rich Presence", "1.0.1", "LapinoLapidus#3262")]
 [assembly: MelonGame("10 Chambers Collective", "GTFO")]
 namespace GTFO_Rich_Presence
 {
