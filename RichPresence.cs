@@ -20,6 +20,9 @@ namespace GTFO_Rich_Presence
 
         private static long _clientId = 764433332330037249L;
         
+        private static string _matchId = Guid.NewGuid().ToString();
+        private static string _secret = Guid.NewGuid().ToString();
+        
         public static Activity defaultActivity = new Activity()
         {
             State = "Playing GTFO",
@@ -69,7 +72,7 @@ namespace GTFO_Rich_Presence
                           RundownManager.ActiveExpedition.Descriptive.PublicName,
                 Party =
                 {
-                    Id = Guid.NewGuid().ToString(),
+                    Id = _matchId,
                     Size =
                     {
                         CurrentSize = SNet.LobbyPlayers.Count,
@@ -78,7 +81,7 @@ namespace GTFO_Rich_Presence
                 },
                 Secrets =
                 {
-                    Match = Guid.NewGuid().ToString(),
+                    Match = _secret,
                     Join = SNet.Lobby.Identifier.ID.ToString(),
                     Spectate = "null"
                 }, Timestamps =
